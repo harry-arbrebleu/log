@@ -1,5 +1,16 @@
 # Log (20th July 2026~)
 
+
+## 21th July 2026
+
+引き続き論文執筆．昔の計算コードを何とか発掘．Downloadフォルダに突っ込んでおいてよかった．Gitで管理しようね，自分．居室でだべってるとパイセンがおもろいアイデア出して新たなテーマが生まれた．論文の進捗は微妙．図が1つすすんだ．マジでしゃべるのが忙しかった．今日眺めた論文を上げておこう．
+
+- [アナログな量子状態をアナログのまま保護する](https://link.aps.org/doi/10.1103/PhysRevLett.125.080503)
+- [単一光子状態をミラーに当てて素早くミラーを取り去ると多光子状態が生まれる](https://link.aps.org/doi/10.1103/94pm-hp34)
+- [表面弾性波とSiVを強結合させる](https://www.nature.com/articles/s41567-026-03369-2)
+
+メモ: 来週MS会議用のポスターと日物用の予稿作る．
+
 ## 20th July 2026
 日中は[アメリカンフェスティバル](https://american-festival.com/) avec QIC lab memebers including alumini．M卒のコンサルが6 M/yearでD卒の研究職が5.4 M/yearで少しやるせない気持ちになるなど．論文の直しを待ち時間で少しずつ進める．Resultの構成が良くなかったので少し組みなおす．IntroductionとModel and MethodのFBの反映を行う．APSに投稿するのにイギリス英語で書いていいのだろうか？
 
