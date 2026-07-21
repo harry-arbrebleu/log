@@ -1,2 +1,6 @@
-# log
-Not logarithm
+# Log (20th July 2026~)
+
+## 20th July 2026
+日中は[アメリカンフェスティバル](https://american-festival.com/) avec QIC lab memebers including alumini．M卒のコンサルが6 M/yearでD卒の研究職が5.4 M/yearで少しやるせない気持ちになるなど．論文の直しを待ち時間で少しずつ進める．Resultの構成が良くなかったので少し組みなおす．IntroductionとModel and MethodのFBの反映を行う．APSに投稿するのにイギリス英語で書いていいのだろうか？
+
+夜は送別会．幹事に感謝．すべてに感謝．「餞は生前葬の香典だ顔で笑って心で泣いて」#tanka なんてのは大げさだけど，ワシはいつもそんな考え方．旅立つ人が祝福されるべきなのは空間的に遠くに行く人も，命の時計を止めて過去に取り残されるひとも同じだろう．ワシの葬式も現世の送別会にしてほしい，なんてことをぼんやり思っていた．
